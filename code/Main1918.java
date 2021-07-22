@@ -5,10 +5,6 @@ import java.io.*;
 
 class Main1918 {
 
-    public static StringBuffer change(char L, char O, char R) {
-        return new StringBuffer(L + R + O);
-    }
-
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = br.readLine();
