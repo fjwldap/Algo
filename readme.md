@@ -8,3 +8,4 @@
 | 0716 | [12904](https://www.acmicpc.net/problem/12904) | [코드](code/Main12904.java) |
 | 0722 | [5639](https://www.acmicpc.net/problem/5639)   | [코드](code/Main5639.java)  |
 | 0726 | [16973](https://www.acmicpc.net/problem/16973) | [코드](code/Main16973.java) |
+| 0729 | [2156](https://www.acmicpc.net/problem/2156)   | [코드](code/Main2156.java)  |
