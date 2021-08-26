@@ -19,3 +19,4 @@
 | 0825 | [20444](https://www.acmicpc.net/problem/20444) | 색종이와 가위    | [코드](code/Main20444.java) |                       |
 | 0826 | [17413](https://www.acmicpc.net/problem/17413) | 단어 뒤집기 2    | [코드](code/Main17413.java) |                       |
 | 0826 |  [3200](https://www.acmicpc.net/problem/3020)  | 개똥벌레         | [코드](code/Main3020.java)  |                       |
+| 0826 | [18405](https://www.acmicpc.net/problem/18405) | 경쟁적 전염      | [코드](code/Main18405.java) |                       |
