@@ -17,3 +17,5 @@
 | 0802 |  [2056](https://www.acmicpc.net/problem/2056)  | 작업             | [코드](code/Main2056.java)  |
 | 0824 |  [7662](https://www.acmicpc.net/problem/7662)  | 이중 우선순위 큐 | [코드](code/Main7662.java)  | [📝](memo/treemap.md) |
 | 0825 | [20444](https://www.acmicpc.net/problem/20444) | 색종이와 가위    | [코드](code/Main20444.java) |                       |
+| 0826 | [17413](https://www.acmicpc.net/problem/17413) | 단어 뒤집기 2    | [코드](code/Main17413.java) |                       |
+| 0826 |  [3200](https://www.acmicpc.net/problem/3020)  | 개똥벌레         | [코드](code/Main3020.java)  |                       |
