@@ -23,5 +23,6 @@
 | 0827 | [20922](https://www.acmicpc.net/problem/20922) | 겹치는 건 싫어   | [코드](code/Main20922.java) | 투포인터                   |
 | 0827 |  [2583](https://www.acmicpc.net/problem/2583)  | 영역 구하기      | [코드](code/Main2583.java)  | dfs                        |
 | 0827 | [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭      | [코드](code/Main12865.java) | [DP](memo/DP.md)           |
+| 0912 |  [6118](https://www.acmicpc.net/problem/6118)  | 숨바꼭질         | [코드](code/Main6118.java)  | bfs                        |
 
 <!-- 📝 -->
