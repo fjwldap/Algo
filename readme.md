@@ -28,5 +28,6 @@
 | 0913 |  [1074](https://www.acmicpc.net/problem/1074)  | Z                     | [코드](code/Main1074.java)  |           분할 정복            |
 | 0914 |  [1520](https://www.acmicpc.net/problem/1520)  | 내리막 길             | [코드](code/Main1520.java)  |            DP, dfs             |
 | 0914 | [18352](https://www.acmicpc.net/problem/18352) | 특정 거리의 도시 찾기 | [코드](code/Main18352.java) | [다익스트라](memo/dijkstra.md) |
+| 1011 | [10026](https://www.acmicpc.net/problem/10026) | 적록색약              | [코드](code/Main10026.java) |              dfs               |
 
 <!-- 📝 -->
